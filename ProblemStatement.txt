@@ -1,0 +1,28 @@
+# Problem Statement 
+
+The Simple Contact Book App aims to provide users with an easy and 
+efficient way to store, retrieve, search, and delete personal contact 
+information through a command-line interface. 
+
+# Scope of the Project 
+-   Store contact names and phone numbers temporarily during runtime. 
+-   Allow basic operations such as adding, viewing, searching, and 
+deleting contacts.
+-   Provide a clean, menu-driven interface suitable for beginners 
+learning Python.
+-   The project does not include permanent data storage or advanced 
+validation in its current version. 
+
+# Target Users
+-   Students learning Python programming. 
+-   Beginners who want to understand functions, loops, and dictionary 
+usage.
+-   Users who need a minimal contact management tool for demonstration 
+or practice. 
+
+# High-Level Features
+-   Add new contact with name and phone number.
+-   Display all saved contacts. 
+-   Search contacts by name. 
+-   Delete contacts with confirmation.
+-   Simple and user-friendly text-based interface.
